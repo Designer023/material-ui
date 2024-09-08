@@ -273,7 +273,7 @@ importers:
         specifier: ^10.7.3
         version: 10.7.3
       nx:
-        specifier: ^19.6.4
+        specifier: ^19.6.5
         version: 19.6.5
       nyc:
         specifier: ^17.0.0
